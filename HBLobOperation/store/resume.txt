@@ -1,0 +1,35 @@
+TOD : Java Versions and their features
+Ref:  https://howtodoinjava.com/series/java-versions-features/
+Date: 25-10-23
+Presenter : Anand
+Points: +2
+
+
+Monica Gupta 9:44 AM
+TOD : Immutability
+Ref: https://www.javatpoint.com/immutable-string
+Date: 26-10-23
+Presenter : Ashutosh Pal
+Points: +2
+
+
+Monica Gupta 9:47 AM
+TOD : Inner Classes : Not about Sub classes , Classes inside other Classes ( Mainly use in Abstraction Model)
+Ref: https://www.javatpoint.com/immutable-string
+Date: 27-10-23
+Presenter : Kartik Kumar
+Points: +2
+
+Monica Gupta 9:49 AM
+TOD : Inner Classes : Not about Sub classes , Classes inside other Classes ( Mainly use in Abstraction Model)
+Ref: https://jenkov.com/tutorials/java/nested-classes.html#:~:text=Java%20developers%20often%20refer%20to,members%20of%20their%20enclosing%20class.
+Date: 27-10-23
+Presenter : Kartik Kumar
+Points: +2
+
+Monica Gupta 9:52 AM
+TOD : Garbage Collection : All Algorithms
+Ref: https://www.baeldung.com/java-choosing-gc-algorithm
+Date: 28-10-23
+Presenter : Rahul Maurya
+Points: +2
